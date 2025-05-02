@@ -1,5 +1,5 @@
 # Workshop de Git e Github
 Usando:
-- HTML
+- HTMX
 - CSS
-- JS
+- TS
